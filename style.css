@@ -87,9 +87,8 @@ button {
     width: 120px;
 }
 
-img {
+.banner-content > img {
     flex: 1;
-    max-width: 400px;
     width: 100%;
     min-width: 0;
 }
@@ -107,7 +106,7 @@ img {
 .main-text {
     color: #1F2937;
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
     text-align: center;
     font-size: 36px;
     font-weight: bold;
@@ -117,7 +116,7 @@ img {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 50px;
     padding-left: 100px;
     padding-right: 100px;
 }
