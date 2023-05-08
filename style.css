@@ -196,3 +196,9 @@ button {
     align-self: center;
 }
 
+.footer {
+    text-align: center;
+    font-size: 18px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
